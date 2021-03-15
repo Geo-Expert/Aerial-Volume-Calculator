@@ -1,4 +1,4 @@
-# Aerial-Volume-Calculculator
+# Aerial-Volume-Calculator
 ## Required Packages:
 
 * subprocess
